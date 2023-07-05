@@ -1,1 +1,1 @@
-# DRL-assisted-converter-design
+The project includes supporting files of the paper entitled "Stability-Oriented Multi-Objective Control Design for Power Converters Assisted by Deep Reinforcement Learning" submitted to IEEE TPEL-Letter.
